@@ -16,7 +16,7 @@ Step:3 Install Cleantext Library:
        
        pip install cleantext
 
-Step:4 Run you app:
+Step:4 Run your app:
        
        streamlit run main.py
 
